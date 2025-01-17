@@ -1,0 +1,44 @@
+node_modules
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Logs
+logs
+*.log
+
+# Build output
+dist
+build
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Local environment files
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
+*.idea
+*.vscode
+*.envrc
+
+# Git files
+.git
+.gitignore
+
+# Docker files
+Dockerfile
+docker-compose.yml
+docker-compose.override.yml

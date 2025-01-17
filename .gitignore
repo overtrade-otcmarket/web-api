@@ -1,0 +1,15 @@
+/node_modules
+/.env
+/.env.*
+!/.env.example
+/dist
+/*.log
+.DS_Store
+.idea
+.vscode
+.env
+package-lock.json
+db_data
+/*.crt
+/*.pem
+/*.p12
